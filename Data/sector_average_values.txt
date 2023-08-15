@@ -1,0 +1,11 @@
+Utilities: 0.2495166667
+Real Estate: 0.1952428571
+Materials: .04335
+IT: 0.1411
+Industrials: 0.24825
+Health Care: 0.19265
+Financials: 0.12098
+Energy: 0.269975
+Consumer staples: 0.111025
+Consumer Discretionary: 0.27617
+Communication services: 0.17473
